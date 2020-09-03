@@ -1,0 +1,17 @@
+.margin--left-30 {
+  margin-left: 30px;
+}
+.bg-white {
+  background: white;
+}
+.bg-grey {
+  background: grey;
+}
+.price--value {
+  font-size: 32px;
+  padding: 20px;
+}
+
+p {
+  margin-bottom: 2px;
+}
